@@ -1,0 +1,31 @@
+body{
+  background-image: url("../images/note.jpg");
+  background-size: cover;
+}
+
+h1.titles{
+	font-size: 95px;
+	font-weight: 500;
+	font-family: 'Curlz MT','Brush Script MT',sans-serif;
+	color: #cc00cc;
+}
+
+.game-card{
+	margin:10px;
+	padding: 10px ;
+	font-family: papyrus,cursive;
+	color:#660033;
+	font-size: 30px;
+	font-weight: bold;
+	border: 4px double #336600;
+}
+
+#wins, #current-word, #guess-num, #guess-arr {
+	color:#000066;
+}
+
+#picture{
+	border:4px double #336600;
+	margin:10px;
+	padding: 10px ;
+}
